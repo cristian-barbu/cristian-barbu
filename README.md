@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cristian-barbu
-- 👀 I’m interested in PHP, Symfony, Backend
-- 🌱 I’m currently learning e-commerce
-- 💞️ I’m looking to collaborate on PHP packages and libraries
-- 📫 How to reach me barbu.cristian13 on Skype
+- 👀 currently working with PHP, Symfony, Backend, Docker, Cloud
+- 🌱 currently interested in learning AI, Cloud and Architecture
+- 📫 How to reach me ~~barbu.cristian13 on Skype~~ johncbarbu on Discord, johncbarbu on Twitter / X
 
 <!---
 cristian-barbu/cristian-barbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
