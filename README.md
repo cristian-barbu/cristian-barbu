@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristian-barbu
 - 👀 currently working with PHP, Symfony, Backend, Docker, Cloud
-- 🌱 currently interested in learning AI, Cloud and Architecture
+- 🌱 interested in learning AI, Cloud and Architecture
 - 📫 How to reach me ~~barbu.cristian13 on Skype~~ johncbarbu on Discord, johncbarbu on Twitter / X
 
 <!---
